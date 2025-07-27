@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Website konsultan pertanian">
+  <title>selamat datang di taniajip</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Selamat datang di taniajip!</h1>
+  <p>kami bergerak dibidang pertanian dan agrosolution</p>
+</body>
+</html>
